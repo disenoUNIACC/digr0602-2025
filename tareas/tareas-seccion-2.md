@@ -50,3 +50,4 @@
 * PARGA LÓPEZ ANTONIA PAZ
 * SANTANA VILLARROEL VIKTOR IGNACIO
 * STUVEN CRIADO FELIPE IGNACIO
+* UMAÑA MARTÍNEZ VALENTINA FERNANDA https://github.com/fernandamartinezu/Lab.tencologico.tareas/blob/main/Grafico%20suicidios%20en%20Chile.png
