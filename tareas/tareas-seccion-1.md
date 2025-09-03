@@ -45,7 +45,7 @@
 * HUENULLÁN GONZALEZ FRANSISCA ISIDORA https://github.com/franhuenu/LabGuille/blob/232c366b5856c4461566e38a95e7f8c9f0955fef/Tarea%203
 * LIZANA ZÚÑIGA JOSEFA VALENTINA
 * MARCHANT MARTIN ISABELLA CAROLINA
-* MARTÍNEZ UMAÑA FERNANDA VALENTINA
+* MARTÍNEZ UMAÑA FERNANDA VALENTINA https://github.com/fernandamartinezu/Lab.tencologico.tareas/blob/main/Grafico%20suicidios%20en%20Chile.png
 * MEDEL ANDRADE VALENTINA ANTONIA https://polite-beauty-792.notion.site/Tarea-3-LabDesTec-2-2621b29079a980fab427e613f54464ef?source=copy_link
 * PADILLA CARRILLO ISIS CAROLINA https://silicon-cast-b58.notion.site/Tarea-3-Visualizaci-n-Datos-261ba3e9deb08070b9a9ef1ce667b0fa?source=copy_link
 * PONCE NÚÑEZ ERIC ALEJANDRO
