@@ -37,3 +37,6 @@
 ## Tarea 3
 Constanza Díaz https://github.com/ConiDiaz/Lab-Tecnol-gico-II/blob/main/Tarea%203
 * Vera Castro Javiera Isabel (https://lapis-bugle-f5d.notion.site/TAREA-3-2613ceb82fc480e99de6f0a2df6b0e82?source=copy_link)
+* 
+## Tarea 4
+* Constanza Díaz https://github.com/ConiDiaz/Lab-Tecnol-gico-II/tree/main/Tarea%204
