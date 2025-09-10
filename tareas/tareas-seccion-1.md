@@ -49,7 +49,7 @@
 * MEDEL ANDRADE VALENTINA ANTONIA https://polite-beauty-792.notion.site/Tarea-3-LabDesTec-2-2621b29079a980fab427e613f54464ef?source=copy_link
 * PADILLA CARRILLO ISIS CAROLINA https://silicon-cast-b58.notion.site/Tarea-3-Visualizaci-n-Datos-261ba3e9deb08070b9a9ef1ce667b0fa?source=copy_link
 * PONCE NÚÑEZ ERIC ALEJANDRO
-* SILVA SEREÑO TAMARA SOLEDAD
+* SILVA SEREÑO TAMARA SOLEDAD https://carnelian-beak-88a.notion.site/Tarea-3-262a1a80465e8044b94cc70ba66cf31f?source=copy_link
 * VERA CASTRO JAVIERA ISABEL https://lapis-bugle-f5d.notion.site/TAREA-3-2613ceb82fc480e99de6f0a2df6b0e82?source=copy_link
 
 ## Tarea 4
@@ -67,5 +67,5 @@
 * MEDEL ANDRADE VALENTINA ANTONIA
 * PADILLA CARRILLO ISIS CAROLINA
 * PONCE NÚÑEZ ERIC ALEJANDRO
-* SILVA SEREÑO TAMARA SOLEDAD
+* SILVA SEREÑO TAMARA SOLEDAD https://github.com/tamarasilva-uf/Curso-laboratorio/tree/main/Tarea-4
 * VERA CASTRO JAVIERA ISABEL (https://github.com/Jav1Vera/Tareas/tree/839aa04cd6ac996afddbb9b1681da61ef56158ea/Tarea%204)
