@@ -73,7 +73,7 @@
 ## Tarea 5
 * CHAMORRO HENRIQUEZ BENJAMIN IGNACIO
 * DÍAZ OLGUÍN CONSTANZA EILIEM https://github.com/ConiDiaz/Tarea-5.git
-* GALDAMES ARAYA ALINETTE DAMAR
+* GALDAMES ARAYA ALINETTE DAMAR https://github.com/alinettegaldames/laboratorio-tarea-5.git
 * GARRIDO AGUILERA SOFÍA CATALINA https://github.com/sofig137/Lab-tarea-5.git
 * GONZÁLEZ VEGA ALONDRA SOL
 * HERNÁNDEZ SILVA ANTONNELA MELISSA
