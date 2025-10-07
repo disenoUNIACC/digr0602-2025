@@ -54,7 +54,7 @@
 ## Tarea 5
 * AGUIRRE DATTOLI CAMILA VALENTINA FRANCISCA
 * BENEVENTI GONZÁLEZ CONSTANZA ANDREA https://github.com/constanzabeneventi-max/tarea5
-* BUSTAMANTE GANGAS JUAN SEBASTIÁN
+* BUSTAMANTE GANGAS JUAN SEBASTIÁN https://github.com/juanbustamante94/tarea-5.git
 * DONOSO ARENAS IAN EDUARDO NICOLÁS https://github.com/magiaanegraa/tarea-5
 * GONZÁLEZ ALARCÓN FERNANDA https://github.com/fernandagonzalezalarcon/tarea-5
 * IVANOVICH RODRÍGUEZ ZARINKA MILENKA
