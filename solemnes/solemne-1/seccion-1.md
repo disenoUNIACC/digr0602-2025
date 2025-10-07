@@ -11,6 +11,6 @@
 * MARTÍNEZ UMAÑA FERNANDA VALENTINA https://github.com/fernandamartinezu/Solemne1
 * MEDEL ANDRADE VALENTINA ANTONIA https://github.com/valhimedel/LabDesTec/tree/main/solemne1
 * PADILLA CARRILLO ISIS CAROLINA https://github.com/IsisPadilla/laboratorio-tecnologico-solemne-1
-* PONCE NÚÑEZ ERIC ALEJANDRO
+* PONCE NÚÑEZ ERIC ALEJANDRO https://github.com/eric-aponce/laboratorio-tecnol-gico-solemne-1.git
 * SILVA SEREÑO TAMARA SOLEDAD https://github.com/tamarasilva-uf/laboratorio-tecnologico-solemne-1
 * VERA CASTRO JAVIERA ISABEL (https://github.com/Jav1Vera/laboratorio-tecnologico-solemne-1.git)
