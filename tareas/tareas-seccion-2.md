@@ -57,7 +57,7 @@
 * BUSTAMANTE GANGAS JUAN SEBASTIÁN
 * DONOSO ARENAS IAN EDUARDO NICOLÁS https://github.com/magiaanegraa/tarea-5
 * GONZÁLEZ ALARCÓN FERNANDA https://github.com/fernandagonzalezalarcon/tarea-5
-* IVANOVICH RODRÍGUEZ ZARINKA MILENKA
+* IVANOVICH RODRÍGUEZ ZARINKA MILENKA https://github.com/zarinkaivanovich/tarea-5.git
 * MARTÍNEZ MUNDY JOAQUÍN VICENTE
 * MORAGA BETSALEL DANIEL IGNACIO https://github.com/danielmoraga25/Tarea-5
 * PARGA LÓPEZ ANTONIA PAZ
