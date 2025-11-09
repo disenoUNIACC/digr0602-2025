@@ -10,7 +10,7 @@
 * Isis Padilla 
 * Eric Ponce
 * Jo Lizana
-* Fransisca Huenullan
+* Fransisca Huenullan 
 * Fernanda Martinez 
 * Felipe Stuven https://github.com/felipeStuven/Laboratorio_tec_2/blob/main/grafico%20aplicaciones%20interactivas.jpg
 * Javiera Vera
@@ -94,7 +94,7 @@
 * GARRIDO AGUILERA SOFÍA CATALINA 
 * GONZÁLEZ VEGA ALONDRA SOL
 * HERNÁNDEZ SILVA ANTONNELA MELISSA
-* HUENULLÁN GONZALEZ FRANSISCA ISIDORA 
+* HUENULLÁN GONZALEZ FRANSISCA ISIDORA https://github.com/franhuenu/Laboratorio-Tarea-6.git 
 * LIZANA ZÚÑIGA JOSEFA VALENTINA
 * MARCHANT MARTIN ISABELLA CAROLINA
 * MARTÍNEZ UMAÑA FERNANDA VALENTINA
