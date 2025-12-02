@@ -10,7 +10,7 @@
 * Isis Padilla 
 * Eric Ponce
 * Jo Lizana
-* Fransisca Huenullan
+* Fransisca Huenullan 
 * Fernanda Martinez 
 * Felipe Stuven https://github.com/felipeStuven/Laboratorio_tec_2/blob/main/grafico%20aplicaciones%20interactivas.jpg
 * Javiera Vera
@@ -89,17 +89,17 @@
 
 ## Tarea 6
 * CHAMORRO HENRIQUEZ BENJAMIN IGNACIO
-* DÍAZ OLGUÍN CONSTANZA EILIEM 
-* GALDAMES ARAYA ALINETTE DAMAR 
-* GARRIDO AGUILERA SOFÍA CATALINA 
-* GONZÁLEZ VEGA ALONDRA SOL
+* DÍAZ OLGUÍN CONSTANZA EILIEM https://github.com/ConiDiaz/Tarea6.git
+* GALDAMES ARAYA ALINETTE DAMAR https://github.com/alinettegaldames/laboratorio-tarea-6.git
+* GARRIDO AGUILERA SOFÍA CATALINA https://github.com/sofig137/Lab-tarea-6.git
+* GONZÁLEZ VEGA ALONDRA SOL (https://github.com/alondragonzalez-art/tarea-6)
 * HERNÁNDEZ SILVA ANTONNELA MELISSA
-* HUENULLÁN GONZALEZ FRANSISCA ISIDORA 
+* HUENULLÁN GONZALEZ FRANSISCA ISIDORA https://github.com/franhuenu/Laboratorio-Tarea-6.git 
 * LIZANA ZÚÑIGA JOSEFA VALENTINA
 * MARCHANT MARTIN ISABELLA CAROLINA
-* MARTÍNEZ UMAÑA FERNANDA VALENTINA
-* MEDEL ANDRADE VALENTINA ANTONIA 
+* MARTÍNEZ UMAÑA FERNANDA VALENTINA https://github.com/fernandamartinezu/Tarea-6
+* MEDEL ANDRADE VALENTINA ANTONIA https://github.com/valhimedel/Tarea-6
 * PADILLA CARRILLO ISIS CAROLINA 
 * PONCE NÚÑEZ ERIC ALEJANDRO
-* SILVA SEREÑO TAMARA SOLEDAD
-* VERA CASTRO JAVIERA ISABEL
+* SILVA SEREÑO TAMARA SOLEDAD https://github.com/tamarasilva-uf/laboratorio-tarea-6
+* VERA CASTRO JAVIERA ISABEL (https://github.com/Jav1Vera/laboratorio-tarea-6.git)
