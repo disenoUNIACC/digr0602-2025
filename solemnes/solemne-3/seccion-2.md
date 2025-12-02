@@ -2,7 +2,7 @@
 * BENEVENTI GONZÁLEZ CONSTANZA ANDREA https://github.com/constanzabeneventi-max/portafolio-web/tree/main
 * BUSTAMANTE GANGAS JUAN SEBASTIÁN https://github.com/juanbustamante94/portafolio-weeb
 * DONOSO ARENAS IAN EDUARDO NICOLÁS https://github.com/magiaanegraa/portafolio-web
-* GONZÁLEZ ALARCÓN FERNANDA https://github.com/fernandagonzalezalarcon/Repositorio-Web
+* GONZÁLEZ ALARCÓN FERNANDA https://github.com/fernandagonzalezalarcon/portafolio-web.git
 * IVANOVICH RODRÍGUEZ ZARINKA MILENKA [https://github.com/zaryivanovich/Portafolio-web](https://github.com/zaryivanovich/Portafolio-web)
 * MARTÍNEZ MUNDY JOAQUÍN VICENTE https://github.com/joaquinmartinez-jpg/portafolio-web
 * MORAGA BETSALEL DANIEL IGNACIO https://github.com/danielmoraga25/portafolio-web/tree/master
