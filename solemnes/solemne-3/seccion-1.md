@@ -5,12 +5,12 @@
 * GODOY TOBAR ANTONIA
 * GONZÁLEZ VEGA ALONDRA SOL [https://github.com/alondragonzalez-art/solemne-3](https://github.com/alondragonzalez-art/Portafolio-web.git)
 * HERNÁNDEZ SILVA ANTONNELA MELISSA https://github.com/antonnelahernandez/portafolio-web.git
-* HUENULLÁN GONZALEZ FRANSISCA ISIDORA https://github.com/franhuenu/-Portafolio-Web.git
+* HUENULLÁN GONZALEZ FRANSISCA ISIDORA https://github.com/franhuenu/portafolio-web_.git
 * LIZANA ZÚÑIGA JOSEFA VALENTINA 
 * MARCHANT MARTIN ISABELLA CAROLINA https://github.com/isabellamarchant-lang/portafolio-web.git
-* MARTÍNEZ UMAÑA FERNANDA VALENTINA https://github.com/fernandamartinezu/SOLEMNE-3./tree/main
+* MARTÍNEZ UMAÑA FERNANDA VALENTINA https://github.com/fernandamartinezu/Portafolio-web-Fe.git
 * MEDEL ANDRADE VALENTINA ANTONIA https://github.com/valhimedel/Portafolio-Web
 * PADILLA CARRILLO ISIS CAROLINA https://github.com/IsisPadilla/portafolio-web
-* PONCE NÚÑEZ ERIC ALEJANDRO
-* SILVA SEREÑO TAMARA SOLEDAD https://carnelian-beak-88a.notion.site/Solemne-3-2a1a1a80465e801fa421ecfd22c5e259?source=copy_link
+* PONCE NÚÑEZ ERIC ALEJANDRO  https://github.com/eric-aponce/-portafolio-web.git
+* SILVA SEREÑO TAMARA SOLEDAD https://github.com/tamarasilva-uf/portafolio-web
 * VERA CASTRO JAVIERA ISABEL (https://github.com/Jav1Vera/portafolio-web.git)
