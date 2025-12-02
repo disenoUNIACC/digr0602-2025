@@ -7,4 +7,4 @@
 * MARTÍNEZ MUNDY JOAQUÍN VICENTE https://github.com/joaquinmartinez-jpg/portafolio-web
 * MORAGA BETSALEL DANIEL IGNACIO https://github.com/danielmoraga25/portafolio-web/tree/master
 * SANTANA VILLARROEL VIKTOR IGNACIO https://github.com/ViktorSantana1937/portafolio-web/tree/main
-* STUVEN CRIADO FELIPE IGNACIO [https://github.com/felipeStuven/solemne-3/blob/main/README.md](https://github.com/felipeStuven/portafolio-new)
+* STUVEN CRIADO FELIPE IGNACIO https://github.com/felipeStuven/examen
