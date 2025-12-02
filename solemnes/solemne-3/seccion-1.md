@@ -11,6 +11,6 @@
 * MARTÍNEZ UMAÑA FERNANDA VALENTINA https://github.com/fernandamartinezu/SOLEMNE-3./tree/main
 * MEDEL ANDRADE VALENTINA ANTONIA https://github.com/valhimedel/Portafolio-Web
 * PADILLA CARRILLO ISIS CAROLINA https://github.com/IsisPadilla/portafolio-web
-* PONCE NÚÑEZ ERIC ALEJANDRO
+* PONCE NÚÑEZ ERIC ALEJANDRO  https://github.com/eric-aponce/-portafolio-web.git
 * SILVA SEREÑO TAMARA SOLEDAD https://github.com/tamarasilva-uf/portafolio-web
 * VERA CASTRO JAVIERA ISABEL (https://github.com/Jav1Vera/portafolio-web.git)
